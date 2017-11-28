@@ -1,1 +1,0 @@
-# FCG_KHIM_DESIGN
