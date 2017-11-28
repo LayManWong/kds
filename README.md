@@ -1,2 +1,1 @@
-# kds
-PSM2
+# FCG_KHIM_DESIGN
