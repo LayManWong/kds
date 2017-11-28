@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FCG_Latest.data.unityweb",
+"asmCodeUrl": "FCG_Latest.asm.code.unityweb",
+"asmMemoryUrl": "FCG_Latest.asm.memory.unityweb",
+"asmFrameworkUrl": "FCG_Latest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
